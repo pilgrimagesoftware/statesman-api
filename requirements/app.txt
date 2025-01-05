@@ -6,7 +6,7 @@
 #
 alembic==1.9.2
     # via flask-migrate
-async-timeout==4.0.2
+async-timeout==5.0.1
     # via redis
 attrs==22.2.0
     # via jsonschema
@@ -82,7 +82,7 @@ python-dotenv==0.21.1
     # via -r requirements/app.in
 pyyaml==6.0
     # via -r requirements/app.in
-redis==4.4.2
+redis==5.2.1
     # via
     #   -r requirements/app.in
     #   flask-redis
