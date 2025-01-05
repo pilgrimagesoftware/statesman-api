@@ -69,7 +69,7 @@ filelock==3.9.0
     # via
     #   tox
     #   virtualenv
-flask==2.2.2
+flask==2.2.5
     # via
     #   -r requirements/app.in
     #   flask-dotenv
@@ -95,7 +95,7 @@ flask-script==2.0.6
     # via -r requirements/app.in
 flask-session==0.4.0
     # via -r requirements/app.in
-flask-sqlalchemy==3.0.2
+flask-sqlalchemy==3.1.1
     # via
     #   -r requirements/app.in
     #   flask-migrate
@@ -226,7 +226,7 @@ sphinxcontrib-qthelp==1.0.3
     # via sphinx
 sphinxcontrib-serializinghtml==1.1.5
     # via sphinx
-sqlalchemy==2.0.0
+sqlalchemy==2.0.24
     # via
     #   alembic
     #   flask-sqlalchemy
