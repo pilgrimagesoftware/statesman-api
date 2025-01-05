@@ -24,7 +24,7 @@ spec:
       serviceAccountName: store
       containers:
         - name: store
-          image: ghcr.io/pilgrimagesoftware/statesman-store:latest
+          image: ghcr.io/sweetrpg/statesman-store:latest
           imagePullPolicy: Always
           ports:
             - containerPort: 5000
