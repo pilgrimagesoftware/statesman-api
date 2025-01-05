@@ -40,7 +40,7 @@ flask-executor==1.0.0
     # via -r requirements/app.in
 flask-inputs==0.3.0
     # via -r requirements/app.in
-flask-migrate==4.0.3
+flask-migrate==4.0.7
     # via -r requirements/app.in
 flask-redis==0.4.0
     # via -r requirements/app.in
